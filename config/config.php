@@ -1,11 +1,9 @@
 <?php
 
-
-define("SERVER", "myServerName");
-define("PORT", "myPort");
-define("USERNAME", "mysqlUser");
-define("PASSWORD", "mysqlPassword");
-define("DATABASE", "dbName");
-
+define("SERVER", "mysqlServer");
+define("PORT", "3306");
+define("USERNAME", "fakeAirbnbUser");
+define("PASSWORD", "apples11Million");
+define("DATABASE", "fakeAirbnb");
 
 ?>
